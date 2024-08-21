@@ -1,5 +1,4 @@
-Encriptador de texto - Alura-Oracle Next Education - Desafío 1 - Grupo 7
-ESPAÑOL
+Encriptador de texto - Alura-Oracle Next Education - Desafío 1 - Grupo 4
 Descripción
 Este proyecto forma parte del programa ONE (Oracle Next Education) y consiste en un sitio web que sirve para cifrar y desencriptar texto. La consigna era crear un sitio web en base a un modelo que nos dieron en cuál el ususario ingresara un texto y pudiera enriptarlo o desencriptarlo, obteniendo así un nuevo texto.
 
